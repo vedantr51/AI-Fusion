@@ -2,6 +2,8 @@
 
 A React Native mobile application that combines AI-powered text-to-image generation and text summarization features.
 
+**Repository**: [https://github.com/vedantr51/AI-Fusion](https://github.com/vedantr51/AI-Fusion)
+
 ## Features
 
 - **Text-to-Image Generation**: Generate images from text prompts using AI
